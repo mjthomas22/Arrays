@@ -48,10 +48,22 @@ namespace Arrays
             //char[] firstLetter = { 'C', 'J', 'S', 'M' };
             //Console.WriteLine("{0}, {1}, {2}, {3}",firstLetter[0], firstLetter[1], firstLetter[2], firstLetter[3]);
 
-            //dataType[] nameOfArray = new dataType[#ofElements];
-            int[] numberOfSeats = new int[21];
-            string[] studentsInClass = new string[21];
+            ////dataType[] nameOfArray = new dataType[#ofElements]; 
+            //int[] numberOfSeats = new int[21]; 
+            //string[] studentsInClass = new string[21];
 
+            ////nameOfArray[index] = Element;
+            //studentsInClass[0] = "Jordan";
+
+            //Console.WriteLine("Please enter in the name of the next student");
+            //studentsInClass[1] = Console.ReadLine();
+
+            //Console.WriteLine("Please enter the age of the person in the first seat");
+            //int[] ageOfStudents = new int[21];
+            //ageOfStudents[0] = int.Parse (Console.ReadLine());
+
+
+        
         }
     }
 }
